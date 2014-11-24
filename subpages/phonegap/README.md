@@ -1,6 +1,6 @@
 # PhoneGap
 
-![PhoneGap logo](../img/phonegap.png "PhoneGap logo")
+![PhoneGap logo](../../img/phonegap.png "PhoneGap logo")
 
 Just getting started? Check out [@mwbrooks](https://twitter.com/mwbrooks)'s excellent beginners guide: https://github.com/mwbrooks/phonegap-day-workshop-beginner/wiki
 
