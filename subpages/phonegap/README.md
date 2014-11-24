@@ -4,6 +4,12 @@
 
 Just getting started? Check out [@mwbrooks](https://twitter.com/mwbrooks)'s excellent beginners guide: https://github.com/mwbrooks/phonegap-day-workshop-beginner/wiki
 
+## Slides
+
+http://brucelefebvre.com/slides/mobile-apps-m-and-m-in-aem/#/18
+
+From 'Mobile apps: Made and managed in AEM', originally presented at AEM Hub 2014.
+
 ## Demo
 
 With a few simple commands we can have a cross-platform app running on our mobile device. Please refer to the [install instructions](https://github.com/mwbrooks/phonegap-day-workshop-beginner/wiki/phonegap-cli#install) for details on preparing to run the CLI.
