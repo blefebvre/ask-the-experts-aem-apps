@@ -2,7 +2,7 @@
 
 > A PhoneGap API showcase app managed in AEM
 
-![Kitchen Sink](../../img/sink.png "Kitchen Sink first page")
+<img src='../../img/sink.png' alt='Kitchen Sink first page' width='320px'/>
 
 ## Details
 
