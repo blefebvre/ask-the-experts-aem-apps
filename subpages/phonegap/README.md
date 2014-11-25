@@ -54,3 +54,5 @@ navigator.camera.getPicture(
 ```
 
 Save it, and try it out on your device instantly.
+
+[Next →](../aem-apps)

@@ -16,6 +16,10 @@ From 'ENTERPRISE: Not just a dirty word any more', originally presented at Phone
 
 ## Dashboard
 
-Open up the dashboard (assumes an AEM instance running on `:4502`):
+![AEM Apps Command Center](../../img/apps-command-center.png "AEM Apps Command Center")
 
-http://localhost:4502/aem/apps.html/content/phonegap
+Open up the dashboard (assumes an AEM instance running on `:4502`): [http://localhost:4502/aem/apps.html/content/phonegap](http://localhost:4502/aem/apps.html/content/phonegap)
+
+Tap into Geometrixx Outdoors app to view the dashboard.
+
+[Next →](../kitchen-sink)
